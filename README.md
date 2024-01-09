@@ -1,4 +1,4 @@
-# Early-Life Cumulative Exposure to Overweight / Obesity and Cognitive Function: Longitudinal Analysis in Three British Birth Cohorts
+# Early-Life Cumulative Exposure to Overweight / Obesity and Midlife Cognitive Function: Longitudinal Analysis in Three British Birth Cohorts
 
 Stata code for manuscript investigating bidirectional associations between early life BMI exposure and cognitive function across the 1946 National Survey of Health and Development (NSHD), 1958 National Child Development Study (NCDS), and 1970 British Cohort Study (BCS70). 
 
