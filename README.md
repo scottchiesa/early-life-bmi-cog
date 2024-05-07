@@ -5,7 +5,7 @@ Stata code for manuscript investigating bidirectional associations between early
 
 Code for calculating longitudinal BMI trajectories between ages 10-40 years adapted from previous Stata scripts available here -> https://github.com/tomnorris1988/Obesity-duration-and-cardiometabolic-outcomes.
 
-Manuscript published in Lancet Healthy Longevity March 2024 issue.
+Manuscript published in Lancet Healthy Longevity March 2024 issue at https://doi.org/10.1016/S2666-7568(24)00005-9.
 
 ## Abstract
 
